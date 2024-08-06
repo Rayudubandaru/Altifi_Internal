@@ -51,11 +51,13 @@
     <version>5.2.5</version>
 </dependency>
 
-  	<dependency>
-  		<groupId>Cucumber</groupId>
-  		<artifactId>BDD</artifactId>
-  		<version>0.0.1-SNAPSHOT</version>
-  	</dependency>
+<dependency>
+    <groupId>Cucumber</groupId>
+    <artifactId>BDD</artifactId>
+    <version>0.0.1-SNAPSHOT</version>
+    <scope>compile</scope>
+</dependency>
+  	
   	
   </dependencies>
 
